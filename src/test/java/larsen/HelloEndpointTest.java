@@ -44,4 +44,5 @@ public class HelloEndpointTest {
                 .body("right", is(200))
                 .body("answer", is(300));
     }
+
 }
